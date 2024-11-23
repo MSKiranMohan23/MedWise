@@ -1,4 +1,4 @@
-##MedWise
+## MedWise
 MedWise is simple NextJs based application consists of listing page for drug candidates and details page. Listing page consists of
 filtering by status, searching by name with pagination.
 
