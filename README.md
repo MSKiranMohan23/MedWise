@@ -7,7 +7,7 @@ Key Features:
 Frontend Framework: Powered by React 18 for fast and efficient UI rendering.
 Type-Safe Development: Developed using TypeScript, ensuring robust and error-free code.
 State Management: Incorporates React Redux with Redux Toolkit for simplified state management and improved maintainability.
-Responsive Design: Styled with Tailwind CSS to ensure a clean, customizable, and mobile-friendly interface.
+Tailwind CSS: Styled with Tailwind CSS to ensure a clean, customizable,.
 
 ## Getting Started
 
