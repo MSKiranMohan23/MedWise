@@ -1,0 +1,1404 @@
+{
+  "data": [
+    {
+      "drug_id": "drug-id-0",
+      "name": "DrugA0",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-1",
+      "name": "DrugB0",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-2",
+      "name": "DrugC0",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-3",
+      "name": "DrugD0",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-4",
+      "name": "DrugE0",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase II",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-5",
+      "name": "DrugF0",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-6",
+      "name": "DrugG0",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase I",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-7",
+      "name": "DrugH0",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-8",
+      "name": "DrugI0",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-9",
+      "name": "DrugJ0",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-10",
+      "name": "DrugK0",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-11",
+      "name": "DrugL0",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-12",
+      "name": "DrugM0",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-13",
+      "name": "DrugN0",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase I",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-14",
+      "name": "DrugO0",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-15",
+      "name": "DrugP0",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase I",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-16",
+      "name": "DrugQ0",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-17",
+      "name": "DrugR0",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase I",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-18",
+      "name": "DrugS0",
+      "status": "Approved",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-19",
+      "name": "DrugT0",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase I",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-20",
+      "name": "DrugU0",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase II",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-21",
+      "name": "DrugV0",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-22",
+      "name": "DrugW0",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-23",
+      "name": "DrugX0",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-24",
+      "name": "DrugY0",
+      "status": "Approved",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-25",
+      "name": "DrugZ0",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-26",
+      "name": "DrugA1",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase I",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-27",
+      "name": "DrugB1",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase II",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-28",
+      "name": "DrugC1",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-29",
+      "name": "DrugD1",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-30",
+      "name": "DrugE1",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-31",
+      "name": "DrugF1",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-32",
+      "name": "DrugG1",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase I",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-33",
+      "name": "DrugH1",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-34",
+      "name": "DrugI1",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-35",
+      "name": "DrugJ1",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase II",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-36",
+      "name": "DrugK1",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-37",
+      "name": "DrugL1",
+      "status": "In Development",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-38",
+      "name": "DrugM1",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-39",
+      "name": "DrugN1",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-40",
+      "name": "DrugO1",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase II",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-41",
+      "name": "DrugP1",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase II",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-42",
+      "name": "DrugQ1",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase I",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-43",
+      "name": "DrugR1",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-44",
+      "name": "DrugS1",
+      "status": "In Development",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-45",
+      "name": "DrugT1",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase I",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-46",
+      "name": "DrugU1",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-47",
+      "name": "DrugV1",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-48",
+      "name": "DrugW1",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-49",
+      "name": "DrugX1",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-50",
+      "name": "DrugY1",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-51",
+      "name": "DrugZ1",
+      "status": "In Development",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-52",
+      "name": "DrugA2",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase II",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-53",
+      "name": "DrugB2",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase I",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-54",
+      "name": "DrugC2",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-55",
+      "name": "DrugD2",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-56",
+      "name": "DrugE2",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-57",
+      "name": "DrugF2",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-58",
+      "name": "DrugG2",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-59",
+      "name": "DrugH2",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-60",
+      "name": "DrugI2",
+      "status": "Approved",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-61",
+      "name": "DrugJ2",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase III",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-62",
+      "name": "DrugK2",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase II",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-63",
+      "name": "DrugL2",
+      "status": "Approved",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-64",
+      "name": "DrugM2",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase I",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-65",
+      "name": "DrugN2",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase I",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-66",
+      "name": "DrugO2",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-67",
+      "name": "DrugP2",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase I",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-68",
+      "name": "DrugQ2",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase I",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-69",
+      "name": "DrugR2",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-70",
+      "name": "DrugS2",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-71",
+      "name": "DrugT2",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase II",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-72",
+      "name": "DrugU2",
+      "status": "In Development",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-73",
+      "name": "DrugV2",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-74",
+      "name": "DrugW2",
+      "status": "Approved",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-75",
+      "name": "DrugX2",
+      "status": "Approved",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase II",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-76",
+      "name": "DrugY2",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase II",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-77",
+      "name": "DrugZ2",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-78",
+      "name": "DrugA3",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase I",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-79",
+      "name": "DrugB3",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase I",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-80",
+      "name": "DrugC3",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase II",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-81",
+      "name": "DrugD3",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Acts on serotonin reuptake inhibitors.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-82",
+      "name": "DrugE3",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-83",
+      "name": "DrugF3",
+      "status": "Approved",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase III",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-84",
+      "name": "DrugG3",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-85",
+      "name": "DrugH3",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase II",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-86",
+      "name": "DrugI3",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-87",
+      "name": "DrugJ3",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase II",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "IV drip"
+      }
+    },
+    {
+      "drug_id": "drug-id-88",
+      "name": "DrugK3",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-89",
+      "name": "DrugL3",
+      "status": "Approved",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase I",
+        "indications": ["Rheumatoid arthritis", "Crohn's disease"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-90",
+      "name": "DrugM3",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase I",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-91",
+      "name": "DrugN3",
+      "status": "In Development",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "HeartWell Pharma",
+        "trial_Phase": "Phase I",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-92",
+      "name": "DrugO3",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-93",
+      "name": "DrugP3",
+      "status": "Approved",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Cancer", "Leukemia"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-94",
+      "name": "DrugQ3",
+      "status": "Approved",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Inhibits TNF-alpha.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "ImmunoLife Corp.",
+        "trial_Phase": "Phase III",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-95",
+      "name": "DrugR3",
+      "status": "Approved",
+      "description": "Prevents blood clots in high-risk patients.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Abdominal pain", "Mild anxiety"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase III",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Oral tablet"
+      }
+    },
+    {
+      "drug_id": "drug-id-96",
+      "name": "DrugS3",
+      "status": "In Development",
+      "description": "Targets cancer cells with precision.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Sleep disturbances", "Injection site reactions"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase I",
+        "indications": ["Stroke prevention", "Acute coronary syndrome"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-97",
+      "name": "DrugT3",
+      "status": "In Development",
+      "description": "Reduces inflammation and immune response.",
+      "mechanism_of_action": "Targets B-cell pathways.",
+      "side_effects": ["Fatigue", "Increased risk of infections"],
+      "other_details": {
+        "manufacturer": "OncoTarget Therapeutics",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Topical cream"
+      }
+    },
+    {
+      "drug_id": "drug-id-98",
+      "name": "DrugU3",
+      "status": "In Development",
+      "description": "Designed for cognitive enhancement.",
+      "mechanism_of_action": "Blocks P2Y12 receptor.",
+      "side_effects": ["Bleeding", "Mild sedation"],
+      "other_details": {
+        "manufacturer": "PharmaGenix Inc.",
+        "trial_Phase": "Phase III",
+        "indications": ["Chronic pain", "Neuropathic pain"],
+        "formulation": "Injection"
+      }
+    },
+    {
+      "drug_id": "drug-id-99",
+      "name": "DrugV3",
+      "status": "In Development",
+      "description": "A novel treatment for chronic pain.",
+      "mechanism_of_action": "Modulates NMDA receptors.",
+      "side_effects": ["Nausea", "Dizziness", "Headache"],
+      "other_details": {
+        "manufacturer": "NeuroGen Labs",
+        "trial_Phase": "Phase II",
+        "indications": ["Alzheimer’s disease", "Mild cognitive impairment"],
+        "formulation": "Topical cream"
+      }
+    }
+  ]
+}
