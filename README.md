@@ -13,14 +13,14 @@ Tailwind CSS: Styled with Tailwind CSS to ensure a clean, customizable,.
 
 First, run the development server:
 
+
 ```bash
+npm i
 npm run dev
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+yarn install
+yarn run dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
