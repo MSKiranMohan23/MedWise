@@ -38,7 +38,7 @@ export default function Page({
     if (slug != "") {
       // Fetch drug candidate details
       fetchData(
-        `/${GetDrugDataDetails}?drugId=${slug}`,
+        `${GetDrugDataDetails}?drugId=${slug}`,
         successCallback,
         errorCallback
       );

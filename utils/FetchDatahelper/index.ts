@@ -1,7 +1,9 @@
+
+
 export const fetchData= async(url: string,
   successCallback : (data:any) =>void,
   errorCallback : (data:any) =>void,
-
+ 
 )=> {
   try {
     const response = await fetch(url);
